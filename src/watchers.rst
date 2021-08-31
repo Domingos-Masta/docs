@@ -32,6 +32,7 @@ Watches the actively edited file and associated metadata like path, language, an
  - :gh:`kostasdizas/aw-watcher-sublime` - Sublime Text 3, by :gh-user:`kostasdizas` (unmaintained)
  - :gh:`prplecake/aw-watcher-sublimetext` - Sublime Text 3, by :gh-user:`prplecake` (fork of aw-watcher-sublime above, maintained)
  - :gh:`NicoWeio/aw-watcher-atom` - Atom, by :gh-user:`NicoWeio`
+ - :gh:`Domingos-Masta/aw-watcher-netbeans` - Netbeans,  forked from netbeans-wakatime, by :gh-user:`Domingos-Masta` (maintained)
 
 Media watchers
 --------------
