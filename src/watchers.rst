@@ -34,6 +34,7 @@ Watches the actively edited file and associated metadata like path, language, an
  - :gh:`NicoWeio/aw-watcher-atom` - Atom, by :gh-user:`NicoWeio`
  - :gh:`Domingos-Masta/aw-watcher-netbeans` - Netbeans,  forked from netbeans-wakatime, by :gh-user:`Domingos-Masta` (maintained)
 
+
 Media watchers
 --------------
 
